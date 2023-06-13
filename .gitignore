@@ -1,0 +1,5 @@
+gitlab-config
+gitlab-data
+gitlab-db-data
+gitlab-logs
+.idea
