@@ -42,5 +42,5 @@ pour une utilisation sur AMD86 changer la ligne 4
 
 par
 
-> image: 'gitlab/gitlab-ee'
+> image: 'gitlab/gitlab-ce'
 # gitlab_docker
